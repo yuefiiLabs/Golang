@@ -1,0 +1,15 @@
+{
+  "name": "golang",
+  "version": "1.0.0",
+  "repository": "https://github.com/yuefiiLabs/Golang.git",
+  "author": "Yuefii",
+  "license": "MIT",
+  "devDependencies": {
+    "markdownlint-cli": "^0.42.0",
+    "prettier": "^3.3.3"
+  },
+  "scripts": {
+    "format": "prettier --write '**/*.md'",
+    "lint": "markdownlint '**/*.md' --ignore node_modules"
+  }
+}
