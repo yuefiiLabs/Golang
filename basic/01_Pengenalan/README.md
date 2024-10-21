@@ -19,6 +19,10 @@ Golang, atau Go, adalah bahasa pemrograman yang dikembangkan oleh Google dan dir
 
 Secara keseluruhan, Go sangat cocok untuk pengembangan aplikasi skala besar dan sistem yang memerlukan performa tinggi.
 
+## Instalasi Golang
+
+Sebelum kamu menulis kode dengan Golang, langkah pertama yang harus kamu lakukan adalah menginstal bahasa pemrograman ini di perangkatmu. Yuk, ikuti langkah-langkah [disini](/basic/installation.md)
+
 ## Struktur pada Golang
 
 ```go
