@@ -24,3 +24,5 @@ Berikut adalah tabel materi yang akan kita bahas:
 | 2   | Instalasi      | Cara menginstal Golang di komputer kamu.        |
 | 3   | Struktur Dasar | Memahami struktur program sederhana di Golang.  |
 | 4   | Tipe Data      | Mengenal berbagai tipe data yang ada di Golang. |
+
+> Kamu baru memulai mencoba Golang? Ikuti langkah-langkahnya [Disini](/basic/README.md)
