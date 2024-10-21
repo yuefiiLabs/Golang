@@ -1,7 +1,8 @@
-<p style="text-align: center;">
+<div align="center">
     <img width="20%" src="https://avatars.githubusercontent.com/u/177083893?s=200&v=4">
-    <p style="text-align: center;">Project ini dikembangkan oleh <a href="https://github.com/yuefiiLabs">YuefiiLabs</a>,</br> Berupa pembelajaran Golang dengan bahasa indonesia</p>
-</p>
+    <p>Project ini dikembangkan oleh <a href="https://github.com/yuefiiLabs">YuefiiLabs</a>,</br> Berupa pembelajaran Golang dengan bahasa indonesia</p>
+    <img src="https://img.shields.io/badge/license-MIT-green">
+</div>
 
 ---
 
